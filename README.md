@@ -1,5 +1,7 @@
 # 📝 Task Tracker System
 
+[![Author](http://img.shields.io/badge/author-@Zevhys-blue.svg)](https://www.linkedin.com/in/rakha-djauhari/) ![Created](https://img.shields.io/badge/Created-23--Jan--2026-blue.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/Zevhys/TaskTracker_PemrogramanVisual3_Uas) [![GitHub license](https://img.shields.io/github/license/Zevhys/quickCart-client)](https://github.com/Zevhys/TaskTracker_PemrogramanVisual3_Uas/blob/main/LICENSE) [![Issues Welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg)](https://github.com/Zevhys/TaskTracker_PemrogramanVisual3_Uas/issues) [![Pull Requests Welcome](https://img.shields.io/badge/pull%20requests-welcome-brightgreen.svg)](https://github.com/Zevhys/TaskTracker_PemrogramanVisual3_Uas/pulls)
+
 A modern, modular desktop application designed to manage users, projects, and tasks efficiently. Built with **Python** and **PyQt5**, featuring a clean user interface and robust MySQL database integration.
 
 ## ✨ Features
