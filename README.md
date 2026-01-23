@@ -11,6 +11,7 @@ A modern, modular desktop application designed to manage users, projects, and ta
 - **Task Tracking**: Track task status, due dates, and descriptions.
 - **Sub-Tasks**: Break down complex tasks into smaller, manageable sub-tasks.
 - **Tagging System**: Organize tasks with custom tags (Many-to-Many relationship).
+- **PDF Reporting**: Generate and export data reports to PDF format with a single click.
 - **Modern UI**: Clean, flat design using Qt Designer forms.
 - **Modular Code**: Organized architecture (Separated Logic, UI, and Database).
 
@@ -28,7 +29,13 @@ pip install pymysql PyQt5
 
 ## 🚀 Installation & Setup
 
-### 1. Database Setup
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/Zevhys/TaskTracker_PemrogramanVisual3_Uas .
+```
+
+### 2. Database Setup
 
 Create a new database named `task_tracker` in your MySQL server and import the necessary tables:
 
@@ -39,7 +46,7 @@ CREATE DATABASE task_tracker;
 -- Ensure 'id' columns are set to AUTO_INCREMENT
 ```
 
-### 2. Configure Connection
+### 3. Configure Connection
 
 Open `koneksi.py` and update your database credentials:
 
@@ -55,10 +62,14 @@ def create_connection():
     return connection
 ```
 
-### 3. Run the Application
+### 4. Run the Application
 
 Execute the main file to launch the dashboard:
 
 ```bash
 python main.py
 ```
+
+# Contribution
+
+Contributions are welcome! If you have suggestions for improvements or want to report an issue, feel free to open a pull request or create an issue. Thank you for helping to make this project better!
