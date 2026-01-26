@@ -70,6 +70,7 @@ Execute the main file to launch the dashboard:
 python main.py
 ```
 
-# Contribution
+# 📥 Contribution
 
 Contributions are welcome! If you have suggestions for improvements or want to report an issue, feel free to open a pull request or create an issue. Thank you for helping to make this project better!
+
